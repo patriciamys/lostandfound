@@ -168,13 +168,9 @@
                     </p>
                     <p><b>- Authors -</b></p>
                     <p>
-                        1. 11S19014 - Jonggi V. Sitorus <br>
-                        2. 11S19037 - Rio Efraim Simanjuntak<br>
-                        3. 11S19042 - Risky Yan Simanjuntak<br>
-                        4. 11S19043 - Hari D.S.J. Siburian<br>
-                        5. 11S19064 - Patricia Melissa Yolanda Sibarani<br>
-                        6. 11S19065 - Aryanti Verina Siregar<br>
-                        7. 11S19067 - Cynthia Veronika Pardede<br>                        
+                        1. 11S19042 - Risky Yan Simanjuntak<br>
+                        2. 11S19064 - Patricia Melissa Yolanda Sibarani<br>
+                        3. 11S19067 - Cynthia Veronika Pardede<br>                        
                     </p>
 
                 </div>
